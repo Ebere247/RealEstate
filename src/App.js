@@ -1,10 +1,14 @@
-import './App.css';
+import Header from './components/Header'
+import Banner from './components/Banner'
+import Properties from './components/Properties'
 
 function App() {
   return (
-    <h3 className="text-2xl text-red-600">
-      Real estate project
-    </h3>
+    <div>
+      <Header />
+      <Banner />
+      <Properties />
+    </div>
   );
 }
 
