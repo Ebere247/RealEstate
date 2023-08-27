@@ -5,7 +5,7 @@ function Banner() {
     <div className="w-full mt-6 mx-auto">
         <div className="flex py-32 rounded-xl flex-col gap-5 justify-center items-center mt-10 bg-hero bg-no-repeat bg-center bg-cover h-auto w-auto">
           <p className="text-3xl text-white capitalize w-[500px] text-center leading-10">Mediation of modern Workspaces around the Globe</p>
-          <p className="text-sm text-white text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p className="text-sm text-white text-center w-4/5 mx-auto">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           <div className="form-group bg-white flex py-2 gap-3 rounded-lg px-3">
             <input type="text" className="form-control w-[350px] focus:outline-none border-0" placeholder='Search For Property'/>
             <button className="btn bg-[#6A71F1] text-white rounded-md border-0 flex justify-center items-center gap-2 px-4 py-2">
