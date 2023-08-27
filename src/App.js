@@ -4,7 +4,7 @@ import Properties from './components/Properties'
 
 function App() {
   return (
-    <div>
+    <div className='w-10/12 mx-auto'>
       <Header />
       <Banner />
       <Properties />
